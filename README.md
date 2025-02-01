@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Likhith Sasank Uppalapati Venkata 👋
+I am a Master’s student in Computer Science at the University of Texas at Dallas. I am passionate about full-stack development, data engineering, and building scalable applications. I have worked with top tech companies like Bank of America and HighRadius, and I’m always learning and experimenting with new technologies.
 
-<!--
-**likhith5697/likhith5697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **Master of Science in Computer Science**, University of Texas at Dallas (2023–2025)  
+  CGPA: 3.667/4.0
+- **Bachelor of Technology in Electronics and Communication Engineering**, SRM Institute of Science and Technology (2018–2022)  
+  CGPA: 9.09/10
 
-Here are some ideas to get you started:
+## 💻 Experience
+### Bank of America | Software Engineer 1A | August 2022 – August 2023
+- Developed real-time web applications using React and Spring framework, increasing user engagement by 30%.
+- Led the development of modular React components, improving reusability and reducing feature rollout time by 50%.
+- Implemented Docker for application containerization, increasing developer productivity by 30%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HighRadius | Software Engineer Intern | July 2021 – July 2022
+- Designed an innovative UI for master data management with React.js and Spring MVC, reducing data retrieval times by 20%.
+- Engineered data processing systems with Java libraries, improving project delivery timelines by 40%.
+
+### University of Texas at Dallas | Computer Science Grader | January 2024 – May 2024
+- Graded 150+ assignments for Data Structures and Algorithmic Analysis, providing detailed feedback that improved student outcomes.
+
+## 🚀 Featured Projects
+### **[Fintech B2B App](https://github.com/likith/fintech-b2b-app)** | React, MySQL, Spring, Hibernate, Bootstrap, AJAX
+- Developed an invoice management web application with an advanced user interface, improving customer satisfaction by 18%.
+- Optimized data access with Spring MVC and Hibernate, reducing query execution times by 30%.
+
+### **[PingMe](https://github.com/likith/pingme)** | React, MongoDB, Node.js, Socket.IO
+- Built a real-time interactive chat application, enhancing user engagement with faster response times.
+- Created middleware infrastructure in Node.js/Express to support 500+ simultaneous user connections.
+
+### **[Cryptocurrency Tracker](https://github.com/likith/crypto-tracker)** | React, Chart.js, Material-UI
+- Developed a web app for real-time tracking of cryptocurrency markets at the ARUSH Hack Summit 2.0.
+- Integrated leading exchanges to provide actionable market insights and improve prediction accuracy.
+
+## 🛠️ Technologies & Tools
+- **Languages**: Java, Python, JavaScript, HTML, CSS, SQL, PHP
+- **Frameworks**: React, Node.js, Express, Spring Boot, Hibernate, Struts
+- **Tools & Platforms**: Git, Docker, Jenkins, CI/CD, Postman, Unix, VS Code, IntelliJ IDEA, Selenium IDE, JIRA
+- **Databases**: MySQL, MongoDB
+
+## 📞 Connect with me
+- [LinkedIn](https://linkedin.com/in/likithsasank)
+- [GitHub](https://github.com/likith)
+
+## 🤖 Fun Fact
+I enjoy automating processes and creating systems that improve efficiency. When I'm not coding, I’m exploring the latest trends in blockchain and cryptocurrency.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likith&show_icons=true&theme=radical)
