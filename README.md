@@ -21,29 +21,30 @@ I am a Master’s student in Computer Science at the University of Texas at Dall
 - Graded 150+ assignments for Data Structures and Algorithmic Analysis, providing detailed feedback that improved student outcomes.
 
 ## 🚀 Featured Projects
-### **[Fintech B2B App](https://github.com/likith/fintech-b2b-app)** | React, MySQL, Spring, Hibernate, Bootstrap, AJAX
+### **[Fintech B2B App](https://github.com/likhith5697/Fintech-B2B-Invoice-Management-application)** | React, MySQL, Spring, Hibernate, Bootstrap, AJAX
 - Developed an invoice management web application with an advanced user interface, improving customer satisfaction by 18%.
 - Optimized data access with Spring MVC and Hibernate, reducing query execution times by 30%.
 
-### **[PingMe](https://github.com/likith/pingme)** | React, MongoDB, Node.js, Socket.IO
+### **[PingMe](https://github.com/likhith5697/PingMe-MERN_STACK_APP)** | React, MongoDB, Node.js, Socket.IO
 - Built a real-time interactive chat application, enhancing user engagement with faster response times.
 - Created middleware infrastructure in Node.js/Express to support 500+ simultaneous user connections.
 
-### **[Cryptocurrency Tracker](https://github.com/likith/crypto-tracker)** | React, Chart.js, Material-UI
+### **[Cryptocurrency Tracker](https://github.com/likhith5697/crypto-hunter)** | React, Chart.js, Material-UI
 - Developed a web app for real-time tracking of cryptocurrency markets at the ARUSH Hack Summit 2.0.
 - Integrated leading exchanges to provide actionable market insights and improve prediction accuracy.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Java, Python, JavaScript, HTML, CSS, SQL, PHP
-- **Frameworks**: React, Node.js, Express, Spring Boot, Hibernate, Struts
+- **Frameworks**: React.js, Node.js, Express, Spring Boot, Hibernate, Struts
 - **Tools & Platforms**: Git, Docker, Jenkins, CI/CD, Postman, Unix, VS Code, IntelliJ IDEA, Selenium IDE, JIRA
 - **Databases**: MySQL, MongoDB
 
 ## 📞 Connect with me
-- [LinkedIn](https://linkedin.com/in/likithsasank)
-- [GitHub](https://github.com/likith)
+- [LinkedIn](www.linkedin.com/in/likhithsasank)
+- [GitHub](https://github.com/likhith5697)
+- [Portfolio](https://beamish-lolly-9c87c0.netlify.app/)
 
 ## 🤖 Fun Fact
-I enjoy automating processes and creating systems that improve efficiency. When I'm not coding, I’m exploring the latest trends in blockchain and cryptocurrency.
+I enjoy automating processes and creating systems that improve efficiency.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likith&show_icons=true&theme=radical)
+
