@@ -40,7 +40,7 @@ I am a Master’s student in Computer Science at the University of Texas at Dall
 - **Databases**: MySQL, MongoDB
 
 ## 📞 Connect with me
-- [LinkedIn](www.linkedin.com/in/likhithsasank)
+- [LinkedIn](https://www.linkedin.com/in/likhith-sasank-uppalapati-venkata-222a261b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [GitHub](https://github.com/likhith5697)
 - [Portfolio](https://beamish-lolly-9c87c0.netlify.app/)
 
