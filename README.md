@@ -1,5 +1,5 @@
 # Hi there, I'm Likhith Sasank Uppalapati Venkata 👋
-I am a Master’s student in Computer Science at the University of Texas at Dallas. I am passionate about full-stack development, data engineering, and building scalable applications. I have worked with top tech companies like Bank of America and HighRadius, and I’m always learning and experimenting with new technologies.
+I'm a software engineer passionate about full-stack development, data engineering, and building scalable, cloud-native applications. I've worked with leading tech companies like Bank of America and HighRadius, delivering robust backend systems, microservices, and data pipelines. I thrive on solving complex problems, writing clean code, and continuously exploring new technologies to build impactful solutions.
 
 ## 🎓 Education
 - **Master of Science in Computer Science**, University of Texas at Dallas (2023–2025)  
