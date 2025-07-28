@@ -8,12 +8,12 @@ I'm a software engineer passionate about full-stack development, data engineerin
   CGPA: 9.09/10
 
 ## 💻 Experience
-### Bank of America | Software Engineer 1A | August 2022 – August 2023
+### Bank of America | Software Engineer | August 2022 – August 2023
 - Developed real-time web applications using React and Spring framework, increasing user engagement by 30%.
 - Led the development of modular React components, improving reusability and reducing feature rollout time by 50%.
 - Implemented Docker for application containerization, increasing developer productivity by 30%.
 
-### HighRadius | Software Engineer Intern | July 2021 – July 2022
+### HighRadius | Software Engineer | July 2021 – July 2022
 - Designed an innovative UI for master data management with React.js and Spring MVC, reducing data retrieval times by 20%.
 - Engineered data processing systems with Java libraries, improving project delivery timelines by 40%.
 
