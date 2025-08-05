@@ -1,6 +1,6 @@
 # Hi there, I'm Likhith Sasank Uppalapati Venkata 👋
 
-I'm a software engineer passionate about full-stack development, cloud infrastructure, and building scalable, production-grade applications. I'm always curious about emerging technologies, love writing clean, efficient code, and strive to architect systems that are resilient, maintainable, and future-ready.
+I'm a software engineer passionate about full-stack development, cloud infrastructure, and building scalable, production-grade applications. I enjoy writing clean, efficient code and strive to architect systems that are resilient, maintainable, and future-ready.
 
 ## 🎓 Education
 - **Master of Science in Computer Science**, University of Texas at Dallas (2023–2025)  
@@ -8,19 +8,6 @@ I'm a software engineer passionate about full-stack development, cloud infrastru
 - **Bachelor of Technology in Electronics and Communication Engineering**, SRM Institute of Science and Technology (2018–2022)  
   CGPA: 9.09/10
 
-## 💻 Experience
-
-### Bank of America | Software Engineer | August 2022 – August 2023
-- Built modular web applications using React and Spring Boot, improving user efficiency by 30%.
-- Designed reusable React components, accelerating new feature development by 50%.
-- Introduced Docker for local development, cutting onboarding time by 40%.
-
-### HighRadius | Software Engineer | July 2021 – July 2022
-- Developed master data management UI in React and Spring MVC, reducing latency by 20%.
-- Created and optimized backend modules in Java, improving team velocity and delivery speed.
-
-### University of Texas at Dallas | Computer Science Grader | January 2024 – May 2024
-- Evaluated over 150 Data Structures and Algorithmic Analysis assignments with detailed feedback to help students improve performance.
 
 ## 🚀 Featured Projects
 
@@ -55,7 +42,6 @@ I'm a software engineer passionate about full-stack development, cloud infrastru
 - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle, SQL Server  
 - **Tools & Technologies**: IntelliJ IDEA, Eclipse, Maven, Gradle, JUnit, Mockito, Postman, Unix, VS Code, Jira  
 - **Monitoring & Logging**: Log4j2, Logstash, Elasticsearch, Grafana  
-
 
 ## 🤖 Fun Fact
 I enjoy automating infrastructure, building tools that scale, and learning something new every single day.
