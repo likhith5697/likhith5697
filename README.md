@@ -1,6 +1,6 @@
 # Hi there, I'm Likhith Sasank Uppalapati Venkata 👋
 
-I'm a software engineer passionate about full-stack development, cloud infrastructure, and building scalable, production-grade applications. I enjoy writing clean, efficient code and strive to architect systems that are resilient, maintainable, and future-ready.
+I'm a software engineer passionate about Data engineering, full-stack development, cloud infrastructure, and building scalable, production-grade applications. I enjoy writing clean, efficient code and strive to architect systems that are resilient, maintainable, and future-ready.
 
 ## 🎓 Education
 - **Master of Science in Computer Science**, University of Texas at Dallas (2023–2025)  
