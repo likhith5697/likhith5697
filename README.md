@@ -1,4 +1,4 @@
-# Hi there, I'm Likhith Sasank Uppalapati Venkata 👋
+# Hi there, I'm Likhith 👋
 
 I'm a software engineer passionate about Data engineering, full-stack development, cloud infrastructure, and building scalable, production-grade applications. I enjoy writing clean, efficient code and strive to architect systems that are resilient, maintainable, and future-ready.
 
